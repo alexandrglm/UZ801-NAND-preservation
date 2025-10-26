@@ -1,5 +1,10 @@
 # UZ801 v3.2 board STOCK sysdefault. 20251026 Backups
 ---
+## Files in Release
+[Here](https://github.com/alexandrglm/UZ801-NAND-preservation/releases/tag/main)
+
+---
+
 ## REquirements:
 
 * [Bkerler's EDL tool](https://github.com/bkerler/edl)
