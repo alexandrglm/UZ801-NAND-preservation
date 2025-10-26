@@ -1,5 +1,10 @@
 # UZ801 v3.2 board STOCK sysdefault. 20251026 Backups
 ---
+
+⚠️ **There are several versions of BOARDS, please make sure you use the correct board/rev.** ⚠️
+I am not responsible for incorrect use. I assume you know what you are doing, and that you keep your backups to fix further issues.
+
+---
 ## Files in Release
 [Here](https://github.com/alexandrglm/UZ801-NAND-preservation/releases/tag/main)
 
